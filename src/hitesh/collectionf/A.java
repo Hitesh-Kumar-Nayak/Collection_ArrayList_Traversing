@@ -22,6 +22,7 @@ public class A {
 		al.add(100);
 		al.add(10);
 	    al.add(250);
+		System.out.println(al.get9(6));
 		
 		System.out.println(al);
 		System.out.println(al.indexOf(10));
