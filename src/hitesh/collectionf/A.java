@@ -34,6 +34,8 @@ public class A {
 		al.set(0, 120);
 		System.out.println(al);
 		al.add(0, 150);
+
+		System.out.println("Hitesh");
 		
 		
 		System.out.println("=====For loop");
