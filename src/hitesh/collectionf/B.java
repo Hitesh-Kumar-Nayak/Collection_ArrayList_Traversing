@@ -13,8 +13,6 @@ public class B {
 	public static void main(String[] args) {
 		
 		new B().meth1();
-
-		System();
 	}
 
 }

@@ -24,6 +24,7 @@ public class A {
 	    al.add(250);
 		al.add(200);
 		System.out.println(al.get9(6));
+		Hitesh Kumar Nayak
 		
 		System.out.println(al);
 		System.out.println(al.indexOf(10));
@@ -34,8 +35,6 @@ public class A {
 		al.set(0, 120);
 		System.out.println(al);
 		al.add(0, 150);
-
-		System.out.println("Hitesh");
 		
 		
 		System.out.println("=====For loop");
